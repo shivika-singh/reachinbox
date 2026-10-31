@@ -1,0 +1,7 @@
+**/.env
+**/.env.*
+
+# Environment files - never upload secrets
+**/.env
+**/.env.*
+!**/.env.example
